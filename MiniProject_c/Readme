@@ -1,1 +1,13 @@
 This is my mini project in college. Kindly consider this.
+The computer had seen a lot of evolution both in hardware and software
+Sides, yet there are some features which remain unbeatable and one among
+them is the structure oriented programming language or C. Apart from
+computer Programming they are fused in circuit boards, microcontrollers..,
+etc to carry out Specified functions. The reason is the elegance and
+simplicity of the keywords used in c.
+
+This project is about Controlling Home/Industrial Appliance with
+computer using C. This idea is evolved from the in-out features of
+microcontroller. The same can be extended to a PC where the output from
+PC is a pulse which will activate a relay and hence controlling
+electrical/electronic appliance. This is possible in all PCs having printer port
